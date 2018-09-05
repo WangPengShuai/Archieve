@@ -2,8 +2,8 @@
 //  LocalModelAgent.m
 //  BDKit
 //
-//  Created by wps on 17-2-20.
-//  Copyright (c) 2017年 BoDong BaiDu. All rights reserved.
+//  Created by wps on 2018/8/30.
+//  Copyright © 2018年 wps. All rights reserved.
 //
 
 #import "BDLocalModelAgent.h"
